@@ -7,8 +7,7 @@ Full-Stacks Developer and Digital Marketing Expert
 * 🌍  I'm based in Lamerd, Fars Province, Iran
 * 🖥️  See my portfolio at [BeyondSoft Group](http://beyondsoft.ir)
 * ✉️  You can contact me at [m.mehdiansari@outlook.com](mailto:m.mehdiansari@outlook.com)
-* 🚀  I'm currently working on [Speaker Mall](http://speakermall.ir)
-* 🧠  I'm learning Xamarin Framework
+* 🚀  I'm currently working on [Personal Branding](http://mmehdiansari.id.ir)
 * 🤝  I'm open to collaborating on BeyondSoft Group
 * ⚡  Expert workshop systems
 
@@ -30,11 +29,6 @@ src="https://img.shields.io/github/followers/m-mehdiansari?logo=github&style=for
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://www.sushi.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sushiswap-colored.svg" width="36" height="36" alt="Sushiswap" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
 
 
 ### Socials
